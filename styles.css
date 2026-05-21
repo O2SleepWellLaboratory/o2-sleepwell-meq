@@ -1079,6 +1079,15 @@ a:hover {
   color: var(--text-muted);
 }
 
+.footer-citation {
+  font-size: 0.76rem;
+  color: var(--text-muted);
+  max-width: 700px;
+  line-height: 1.5;
+  margin-top: 0.25rem;
+  opacity: 0.8;
+}
+
 /* CSS Utilities and Display Toggles */
 .hidden {
   display: none !important;
